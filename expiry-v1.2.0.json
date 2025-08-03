@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "expiry": "2025-12-31T23:59:59Z",
-  "message": "Everything is good 👁️"
+  "message": "The version has been disabled"
 }
