@@ -1,0 +1,10 @@
+{
+  "1.0.0": {
+    "disabled": true,
+    "message": "⛔ الإضافة قديمة."
+  },
+  "1.2.0": {
+    "disabled": false,
+    "message": "✅ كل شيء تمام"
+  }
+}
