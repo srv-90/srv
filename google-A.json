@@ -1,10 +1,10 @@
 {
-  "1.0.0": {
+  "2.1.0": {
     "disabled": true,
     "message": "The version has been disabled"
   },
-  "1.2.0": {
+  "2.2.0": {
     "disabled": false,
-    "message": "Everything is good 👁️"
+    "message": "Everything is good, Enjoy 👁️"
   }
 }
