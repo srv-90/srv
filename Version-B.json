@@ -2,8 +2,8 @@
   "latest": "1.2.0",
   "versions": {
     "1.2.0": {
-      "disabled": false,
-      "message": "Everything is good, Enjoy 👁️"
+      "disabled": true,
+      "message": "⛔ This version has been disabled. Please update."
     },
     "1.1.0": {
       "disabled": true,
