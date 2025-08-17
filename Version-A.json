@@ -1,11 +1,11 @@
 {
-  "latest": "2.3.0",
+  "latest": "2.2.0",
   "versions": {
-    "2.3.0": {
+    "2.2.0": {
       "disabled": false,
       "message": "Everything is good, Enjoy 👁️"
     },
-    "2.2.0": {
+    "2.1.0": {
       "disabled": true,
       "message": "⛔ This version has been disabled. Please update."
     }
