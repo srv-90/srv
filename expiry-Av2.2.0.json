@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "expiry": "2026-12-28T23:59:59Z",
   "message": "The version has been disabled"
 }
