@@ -4,7 +4,7 @@
     "message": "The version has been disabled"
   },
   "1.2.0": {
-    "disabled": false,
-    "message": "Everything is good 👁️"
+    "disabled": true,
+    "message": "The version has been disabled"
   }
 }
